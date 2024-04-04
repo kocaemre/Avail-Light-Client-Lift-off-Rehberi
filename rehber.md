@@ -3,7 +3,7 @@
 ### Kurulum
 ##### Dostlar selamlar! 
 ###### Bu yazımızda Avail Light Client Lift-off görevini yapacağız.
-#### 1. [Buraya][https://goldberg.avail.tools/#/accounts] girin,Account simgesine basın.
+#### 1. ![Buraya][https://goldberg.avail.tools/#/accounts] girin,Account simgesine basın.
 ![Account](https://github.com/kocaemre/images/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-04-04%20210611.jpg?raw=true "Account")
 [https://goldberg.avail.tools/#/accounts]: https://goldberg.avail.tools/#/accounts "https://goldberg.avail.tools/#/accounts"
 ####2. Çıkan kelimeleri kaydedin.
