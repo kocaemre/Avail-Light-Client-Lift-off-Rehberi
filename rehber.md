@@ -30,7 +30,7 @@ screen -S avail
 curl -sL1 avail.sh | bash
 ```
 
-##### Şu resimdeki public keyi sitemize giriyoruz
+##### Şu resimdeki public keyi sitemize giriyoruz ve NFT'yi mintliyoruz.
 [![https://lightclient.availproject.org/assets/avail-address.png](https://lightclient.availproject.org/assets/avail-address.png "https://lightclient.availproject.org/assets/avail-address.png")](https://lightclient.availproject.org/assets/avail-address.png "https://lightclient.availproject.org/assets/avail-address.png")
 ####  Screenden çıkmak için ctrl-a + ctrl-d yapıp tekrar terminal ekranına dönebilirsiniz. Tekrar girmek için screen -r avail kodunu kullanabilirsiniz.
 
