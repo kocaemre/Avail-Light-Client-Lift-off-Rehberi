@@ -4,8 +4,7 @@
 ##### Dostlar selamlar! 
 ###### Bu yazımızda Avail Light Client Lift-off görevini yapacağız.
 #### 1. https://goldberg.avail.tools/#/accounts linkine girin,Account simgesine basın.
-
-####2. Çıkan kelimeleri kaydedin.
+#### 2. Çıkan kelimeleri kaydedin.
 #### 3. [Talisman Wallet][Talisman Wallet] indirin.
 [Talisman Wallet]: https://chromewebstore.google.com/detail/talisman-ethereum-and-pol/fijngjgcjhjmmpcmkeiomlglpeiijkld
 #### 4. Çıkan ekranda "Import via Recovery Phase" seçeneğini seçin,Account type olarak Polkadot seçin ve 1. adımda aldığımız kelimeleri buraya girin.
